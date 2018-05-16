@@ -1,4 +1,4 @@
-#vue模板
+# vue模板
 
 基于vue-element-admin 个人学习使用
 ### 1.vue页面存放目录 src/views/ 
