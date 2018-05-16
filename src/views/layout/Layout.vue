@@ -11,8 +11,7 @@
 </template>
 
 <script>
-import { Navbar, Sidebar, AppMain } from './components'
-import TagsView from './components/TagsView.vue'
+import { Navbar, Sidebar, AppMain, TagsView } from './components'
 import ResizeMixin from './mixin/ResizeHandler'
 
 export default {
